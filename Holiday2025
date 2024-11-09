@@ -1,0 +1,264 @@
+{
+
+  "2025":[
+    [
+      {
+        "dat": "1",
+        "evt": "New Years Day",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "6",
+        "evt": "Guru Gobind Singh Jayanti",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "14",
+        "evt": "Pongal",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "14",
+        "evt": "Makar Sankranti",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "26",
+        "evt": "Republic Day",
+        "typ": "Public"
+      }
+    ]
+    ,
+    [
+      {
+        "dat": "2",
+        "evt": "Vasant Panchami",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "19",
+        "evt": "Shivaji Jayanti",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "26",
+        "evt": "Maha Shivratri",
+        "typ": "Public"
+      }
+      
+    ],
+
+    [
+      {
+        "dat": "13",
+        "evt": "Holika Dahan",
+        "typ": "Restricted"
+      }
+      ,
+      {
+        "dat": "14",
+        "evt": "Holi/Dolyatra",
+        "typ": "Public"
+      },
+      {
+        "dat": "31",
+        "evt": "Eid-ul-Fitar",
+        "typ": "Public"
+      }
+    ] , 
+    
+    [
+      {
+        "dat": "6",
+        "evt": "Ram Navami",
+        "typ": "Restricted"
+      },
+
+      {
+        "dat": "10",
+        "evt": "Mahavir Jayanti",
+        "typ": "Public"
+      },
+      {
+        "dat": "14",
+        "evt": "Ambedkar Jayanti",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "18",
+        "evt": "Good Friday",
+        "typ": "Public"
+      }
+      
+    ],
+    
+    [
+      {
+        "dat": "9",
+        "evt": "Rabndra Jayanti",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "12",
+        "evt": "Buddha Purnima",
+        "typ": "Public"
+      }
+    ],
+    
+    [
+      {
+        "dat": "7",
+        "evt": "Bakrid",
+        "typ": "Public"
+      },
+      {
+        "dat": "26",
+        "evt": "Rathyatra",
+        "typ": "Restricted"
+      }
+    ], 
+
+    [
+      {
+        "dat": "6",
+        "evt": "Muharram",
+        "typ": "Public"
+      }
+    ],
+    [
+      {
+        "dat": "9",
+        "evt": "Raksha Bandhan",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "15",
+        "evt": "Independence Day",
+        "typ": "Public"
+      },
+      {
+        "dat": "15",
+        "evt": "Parsi New Year",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "16",
+        "evt": "Janmashtami",
+        "typ": "Public"
+      },
+      {
+        "dat": "27",
+        "evt": "Ganesh Chaturthi",
+        "typ": "Restricted"
+      }
+    ],
+    
+    [
+      {
+        "dat": "5",
+        "evt": "Milad un-Nabi",
+        "typ": "Public"
+      },
+      {
+        "dat": "5",
+        "evt": "Onam",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "22",
+        "evt": "First Day of Sharad Navratri",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "28",
+        "evt": "First day of Durga Puja",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "29",
+        "evt": "Maha Saptami",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "30",
+        "evt": "Maha Astami",
+        "typ": "Restricted"
+      }
+    ],
+
+    [
+      {
+        "dat": "1",
+        "evt": "Maha Navami",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "2",
+        "evt": "Gandhi Jayanti",
+        "typ": "Public"
+      },
+      {
+        "dat": "2",
+        "evt": "Dussehra/Dasami",
+        "typ": "Public"
+      },
+      {
+        "dat": "2",
+        "evt": "Vasant Panchami",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "10",
+        "evt": "Karwa Chauth",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "20",
+        "evt": "Diwali/Deepavali",
+        "typ": "Public"
+      },
+      {
+        "dat": "22",
+        "evt": "Govardhan Puja",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "23",
+        "evt": "Bhai Duj",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "28",
+        "evt": "Chhat Puja",
+        "typ": "Restricted"
+      }
+    ],
+
+    [
+      {
+        "dat": "5",
+        "evt": "Guru Nanak Jayanti",
+        "typ": "Public"
+      },
+      {
+        "dat": "2",
+        "evt": "Rash Purnima",
+        "typ": "Restricted"
+      },
+      {
+        "dat": "24",
+        "evt": "Guru Teg Bahadur Martyrdom day",
+        "typ": "Restricted"
+      }
+    ],
+    [
+      {
+        "dat": "25",
+        "evt": "Christmas",
+        "typ": "Restricted"
+      }
+    ]
+    
+  ]
+  
+}
